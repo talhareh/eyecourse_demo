@@ -1,0 +1,390 @@
+[
+  {
+    "id": "endoscopic-sinus-surgery-foundations",
+    "title": "Endoscopic Sinus Surgery Foundations",
+    "subtitle": "Clinical decision making and safe FESS fundamentals.",
+    "category": "Rhinology",
+    "level": "Intermediate",
+    "durationHours": 6,
+    "rating": 4.8,
+    "learners": 1240,
+    "price": 49,
+    "instructor": "Dr. Sara Khan",
+    "thumbnail": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-01-12",
+    "description": "Build a practical framework for evaluating chronic rhinosinusitis and planning endoscopic interventions with confidence.",
+    "outcomes": [
+      "Identify key sinonasal landmarks in endoscopic orientation.",
+      "Stratify CRS patients for medical versus surgical pathways.",
+      "Apply complication avoidance principles in FESS planning."
+    ],
+    "requirements": [
+      "Basic ENT residency-level knowledge",
+      "Understanding of sinonasal anatomy"
+    ],
+    "curriculum": [
+      { "title": "CRS Workup Essentials", "minutes": 35 },
+      { "title": "CT Anatomy for Surgeons", "minutes": 46 },
+      { "title": "FESS Step-by-Step Blueprint", "minutes": 58 },
+      { "title": "Complications and Rescue Strategy", "minutes": 44 }
+    ],
+    "instructorBio": "Consultant Rhinologist focused on minimally invasive sinus surgery and resident training.",
+    "reviews": [
+      { "name": "Aiman R.", "rating": 5, "comment": "Very practical and easy to apply in clinics." },
+      { "name": "Hamza I.", "rating": 4, "comment": "Great anatomy explanations before procedures." }
+    ],
+    "relatedCourseIds": ["allergic-rhinitis-clinic", "epistaxis-emergency-management"]
+  },
+  {
+    "id": "allergic-rhinitis-clinic",
+    "title": "Allergic Rhinitis: Modern OPD Management",
+    "subtitle": "Evidence-based outpatient workflows for high-volume clinics.",
+    "category": "Rhinology",
+    "level": "Beginner",
+    "durationHours": 4,
+    "rating": 4.6,
+    "learners": 980,
+    "price": 29,
+    "instructor": "Dr. Mariam Qureshi",
+    "thumbnail": "https://images.unsplash.com/photo-1579165466991-467135ad3110?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-02-03",
+    "description": "Master fast diagnosis and treatment personalization for allergic rhinitis in real-world ENT practice.",
+    "outcomes": [
+      "Classify rhinitis phenotypes accurately.",
+      "Build stepwise pharmacotherapy plans.",
+      "Counsel patients on trigger control and adherence."
+    ],
+    "requirements": ["No prior specialization required"],
+    "curriculum": [
+      { "title": "Symptom Pattern Recognition", "minutes": 28 },
+      { "title": "Guideline-Based Treatment Ladder", "minutes": 37 },
+      { "title": "Immunotherapy Referral Decisions", "minutes": 31 }
+    ],
+    "instructorBio": "ENT educator with focus on airway inflammation and outpatient clinical pathways.",
+    "reviews": [
+      { "name": "Sadia M.", "rating": 5, "comment": "Excellent for daily clinic use." },
+      { "name": "Bilal N.", "rating": 4, "comment": "Clear and concise management flowcharts." }
+    ],
+    "relatedCourseIds": ["endoscopic-sinus-surgery-foundations", "epistaxis-emergency-management"]
+  },
+  {
+    "id": "epistaxis-emergency-management",
+    "title": "Epistaxis Emergency Management",
+    "subtitle": "From first response to definitive control in ENT emergencies.",
+    "category": "Emergency ENT",
+    "level": "Intermediate",
+    "durationHours": 3,
+    "rating": 4.7,
+    "learners": 1102,
+    "price": 35,
+    "instructor": "Dr. Asad Rafi",
+    "thumbnail": "https://images.unsplash.com/photo-1631815589968-fdb09a223b1e?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2025-12-20",
+    "description": "Develop rapid stabilization and escalation skills for anterior and posterior epistaxis across settings.",
+    "outcomes": [
+      "Prioritize airway and hemodynamic assessment.",
+      "Select topical, packing, and procedural interventions.",
+      "Recognize when to involve interventional services."
+    ],
+    "requirements": ["Basic emergency medicine familiarity"],
+    "curriculum": [
+      { "title": "Initial Triage and Risk Flags", "minutes": 24 },
+      { "title": "Anterior Epistaxis Toolkit", "minutes": 30 },
+      { "title": "Posterior Epistaxis Algorithms", "minutes": 33 }
+    ],
+    "instructorBio": "Emergency ENT consultant with extensive trauma and airway experience.",
+    "reviews": [
+      { "name": "Farhan K.", "rating": 5, "comment": "Straight to the point and clinically useful." },
+      { "name": "Noor S.", "rating": 4, "comment": "Loved the escalation checklists." }
+    ],
+    "relatedCourseIds": ["tracheostomy-care-and-complications", "allergic-rhinitis-clinic"]
+  },
+  {
+    "id": "otitis-media-child-focused",
+    "title": "Otitis Media: Child-Focused ENT Care",
+    "subtitle": "Practical pediatric otology pathways for juniors.",
+    "category": "Otology",
+    "level": "Beginner",
+    "durationHours": 5,
+    "rating": 4.5,
+    "learners": 860,
+    "price": 39,
+    "instructor": "Dr. Hina Tariq",
+    "thumbnail": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-03-02",
+    "description": "Differentiate AOM, OME, and recurrent disease while improving parent communication and follow-up.",
+    "outcomes": [
+      "Distinguish common pediatric ear pathologies.",
+      "Decide observation versus antibiotics appropriately.",
+      "Plan hearing follow-up and referral timing."
+    ],
+    "requirements": ["Undergraduate pediatrics and ENT basics"],
+    "curriculum": [
+      { "title": "Diagnostic Pearls in Pediatric Ear Exams", "minutes": 41 },
+      { "title": "Treatment Decision Matrix", "minutes": 38 },
+      { "title": "Counseling Parents Effectively", "minutes": 27 }
+    ],
+    "instructorBio": "Pediatric otology specialist and mentor for early-career clinicians.",
+    "reviews": [
+      { "name": "Rimsha A.", "rating": 5, "comment": "Very clear for exam and clinical work." },
+      { "name": "Adeel F.", "rating": 4, "comment": "Useful treatment scenarios." }
+    ],
+    "relatedCourseIds": ["hearing-loss-basics-audiology", "vertigo-workup-for-residents"]
+  },
+  {
+    "id": "hearing-loss-basics-audiology",
+    "title": "Hearing Loss Basics for ENT Trainees",
+    "subtitle": "Audiology interpretation you can use in clinic tomorrow.",
+    "category": "Otology",
+    "level": "Beginner",
+    "durationHours": 4,
+    "rating": 4.4,
+    "learners": 792,
+    "price": 32,
+    "instructor": "Dr. Umar Siddiqui",
+    "thumbnail": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2025-11-18",
+    "description": "Interpret audiograms and tympanometry systematically to improve diagnosis and referral decisions.",
+    "outcomes": [
+      "Read audiograms with confidence.",
+      "Differentiate conductive and sensorineural patterns.",
+      "Counsel on hearing rehab options."
+    ],
+    "requirements": ["Basic physiology knowledge"],
+    "curriculum": [
+      { "title": "Audiometry Fundamentals", "minutes": 32 },
+      { "title": "Tympanometry in Daily Practice", "minutes": 29 },
+      { "title": "Case-Based Pattern Recognition", "minutes": 40 }
+    ],
+    "instructorBio": "Audiovestibular physician focused on translational teaching for residents.",
+    "reviews": [
+      { "name": "Jawad M.", "rating": 4, "comment": "Demystified audiograms for me." },
+      { "name": "Saba N.", "rating": 5, "comment": "Exactly what new residents need." }
+    ],
+    "relatedCourseIds": ["otitis-media-child-focused", "vertigo-workup-for-residents"]
+  },
+  {
+    "id": "vertigo-workup-for-residents",
+    "title": "Vertigo Workup for ENT Residents",
+    "subtitle": "Fast bedside differentiation of peripheral and central causes.",
+    "category": "Neurotology",
+    "level": "Intermediate",
+    "durationHours": 5,
+    "rating": 4.7,
+    "learners": 1018,
+    "price": 44,
+    "instructor": "Dr. Danish Ali",
+    "thumbnail": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-04-08",
+    "description": "Build diagnostic confidence in dizzy patients through structured history, exam, and red-flag screening.",
+    "outcomes": [
+      "Use HINTS and bedside tests appropriately.",
+      "Differentiate BPPV, vestibular neuritis, and central vertigo.",
+      "Create safe referral and imaging pathways."
+    ],
+    "requirements": ["Clinical rotations in emergency or ENT"],
+    "curriculum": [
+      { "title": "Dizziness History That Works", "minutes": 36 },
+      { "title": "Bedside Examination Masterclass", "minutes": 50 },
+      { "title": "Case Drills and Pitfalls", "minutes": 34 }
+    ],
+    "instructorBio": "Neurotology lead with special interest in vestibular diagnostics.",
+    "reviews": [
+      { "name": "Hafsa K.", "rating": 5, "comment": "Best approach to dizzy patients I have seen." },
+      { "name": "Ibrahim T.", "rating": 4, "comment": "Great practical exam demonstrations." }
+    ],
+    "relatedCourseIds": ["hearing-loss-basics-audiology", "otitis-media-child-focused"]
+  },
+  {
+    "id": "voice-disorders-laryngology-intro",
+    "title": "Voice Disorders: Laryngology Intro",
+    "subtitle": "Structured evaluation for hoarseness and professional voice users.",
+    "category": "Laryngology",
+    "level": "Intermediate",
+    "durationHours": 4,
+    "rating": 4.6,
+    "learners": 670,
+    "price": 36,
+    "instructor": "Dr. Neha Farooq",
+    "thumbnail": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-01-26",
+    "description": "Learn a practical laryngology workflow from symptom analysis to laryngoscopic interpretation.",
+    "outcomes": [
+      "Assess common voice complaints systematically.",
+      "Interpret core laryngoscopic findings.",
+      "Coordinate medical, behavioral, and surgical options."
+    ],
+    "requirements": ["ENT examination skills"],
+    "curriculum": [
+      { "title": "Voice History and Red Flags", "minutes": 30 },
+      { "title": "Laryngeal Lesion Patterns", "minutes": 39 },
+      { "title": "Multidisciplinary Management", "minutes": 27 }
+    ],
+    "instructorBio": "Laryngology consultant collaborating closely with speech therapists.",
+    "reviews": [
+      { "name": "Areeba S.", "rating": 5, "comment": "Very relevant and concise." },
+      { "name": "Usman H.", "rating": 4, "comment": "Good review for viva and wards." }
+    ],
+    "relatedCourseIds": ["thyroid-neck-lump-approach", "airway-assessment-basics"]
+  },
+  {
+    "id": "airway-assessment-basics",
+    "title": "Airway Assessment Basics in ENT",
+    "subtitle": "First-line airway evaluation and escalation in acute settings.",
+    "category": "Emergency ENT",
+    "level": "Advanced",
+    "durationHours": 6,
+    "rating": 4.9,
+    "learners": 1322,
+    "price": 54,
+    "instructor": "Dr. Rehan Malik",
+    "thumbnail": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-03-21",
+    "description": "Prepare for high-stakes ENT airway cases with robust algorithms and interdepartmental coordination.",
+    "outcomes": [
+      "Perform rapid upper airway risk stratification.",
+      "Plan escalation including OR and ICU transfer triggers.",
+      "Communicate effectively in multidisciplinary emergencies."
+    ],
+    "requirements": ["On-call or emergency exposure preferred"],
+    "curriculum": [
+      { "title": "Airway Red Flags and Priorities", "minutes": 43 },
+      { "title": "Flexible Scope Findings by Scenario", "minutes": 47 },
+      { "title": "Escalation and Team Communication", "minutes": 40 }
+    ],
+    "instructorBio": "ENT airway lead with trauma-center teaching background.",
+    "reviews": [
+      { "name": "Saif A.", "rating": 5, "comment": "Must-have for emergency rotations." },
+      { "name": "Maha Y.", "rating": 5, "comment": "Excellent frameworks for on-call safety." }
+    ],
+    "relatedCourseIds": ["tracheostomy-care-and-complications", "epistaxis-emergency-management"]
+  },
+  {
+    "id": "tracheostomy-care-and-complications",
+    "title": "Tracheostomy Care and Complications",
+    "subtitle": "Safe ward and emergency tracheostomy management for residents.",
+    "category": "Emergency ENT",
+    "level": "Intermediate",
+    "durationHours": 4,
+    "rating": 4.8,
+    "learners": 945,
+    "price": 41,
+    "instructor": "Dr. Fatima Latif",
+    "thumbnail": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2025-10-11",
+    "description": "Develop confidence in daily tracheostomy care, troubleshooting, and emergency response.",
+    "outcomes": [
+      "Standardize bedside tracheostomy assessment.",
+      "Recognize early warning signs of major complications.",
+      "Execute emergency decannulation response protocols."
+    ],
+    "requirements": ["Basic airway module recommended"],
+    "curriculum": [
+      { "title": "Routine Tracheostomy Care", "minutes": 33 },
+      { "title": "Tube Problems and Airway Rescue", "minutes": 36 },
+      { "title": "Interdisciplinary Handover Checklist", "minutes": 21 }
+    ],
+    "instructorBio": "Head and neck surgeon with strong focus on perioperative airway safety.",
+    "reviews": [
+      { "name": "Komal R.", "rating": 5, "comment": "Practical, concise, and exam-relevant." },
+      { "name": "Shahzaib D.", "rating": 4, "comment": "Great complication algorithms." }
+    ],
+    "relatedCourseIds": ["airway-assessment-basics", "epistaxis-emergency-management"]
+  },
+  {
+    "id": "sleep-apnea-ent-evaluation",
+    "title": "Sleep Apnea ENT Evaluation",
+    "subtitle": "Clinical pathways from snoring clinic to treatment planning.",
+    "category": "Sleep ENT",
+    "level": "Intermediate",
+    "durationHours": 5,
+    "rating": 4.5,
+    "learners": 702,
+    "price": 43,
+    "instructor": "Dr. Ayesha Imran",
+    "thumbnail": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-02-14",
+    "description": "Understand airway collapse patterns and personalize ENT-centric management plans for sleep-disordered breathing.",
+    "outcomes": [
+      "Perform focused sleep-related ENT assessments.",
+      "Interpret sleep study data in clinical context.",
+      "Compare CPAP, surgery, and adjunctive approaches."
+    ],
+    "requirements": ["General ENT knowledge"],
+    "curriculum": [
+      { "title": "Snoring and OSA Clinical Phenotypes", "minutes": 34 },
+      { "title": "DISE and Imaging Interpretation", "minutes": 42 },
+      { "title": "Treatment Planning Workshop", "minutes": 37 }
+    ],
+    "instructorBio": "ENT sleep specialist with multidisciplinary sleep-lab practice.",
+    "reviews": [
+      { "name": "Hooria P.", "rating": 4, "comment": "Very balanced practical overview." },
+      { "name": "Waqas N.", "rating": 5, "comment": "Helped me understand ENT role in OSA clearly." }
+    ],
+    "relatedCourseIds": ["airway-assessment-basics", "voice-disorders-laryngology-intro"]
+  },
+  {
+    "id": "thyroid-neck-lump-approach",
+    "title": "Thyroid and Neck Lump Approach",
+    "subtitle": "Structured ENT evaluation from first visit to referral decisions.",
+    "category": "Head & Neck",
+    "level": "Beginner",
+    "durationHours": 4,
+    "rating": 4.3,
+    "learners": 655,
+    "price": 34,
+    "instructor": "Dr. Aliya Hassan",
+    "thumbnail": "https://images.unsplash.com/photo-1666214280365-1d33a63f2864?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2025-09-01",
+    "description": "Use a stepwise, risk-based approach for thyroid and neck masses in outpatient ENT practice.",
+    "outcomes": [
+      "Apply red-flag criteria in neck lump workup.",
+      "Plan imaging and FNAC pathways appropriately.",
+      "Coordinate referrals and counseling efficiently."
+    ],
+    "requirements": ["Clinical exam foundations"],
+    "curriculum": [
+      { "title": "Neck Lump Differential Diagnosis", "minutes": 29 },
+      { "title": "Imaging and Cytology Roadmap", "minutes": 33 },
+      { "title": "Communication and Follow-up", "minutes": 25 }
+    ],
+    "instructorBio": "Head and neck surgeon with academic focus on early diagnosis pathways.",
+    "reviews": [
+      { "name": "Muneeb S.", "rating": 4, "comment": "Helpful for outpatient decision making." },
+      { "name": "Dua I.", "rating": 4, "comment": "Good practical sequence of workup." }
+    ],
+    "relatedCourseIds": ["voice-disorders-laryngology-intro", "airway-assessment-basics"]
+  },
+  {
+    "id": "ent-osce-viva-masterclass",
+    "title": "ENT OSCE & Viva Masterclass",
+    "subtitle": "Exam-focused high-yield review for final-year medical students.",
+    "category": "Exam Prep",
+    "level": "Beginner",
+    "durationHours": 7,
+    "rating": 4.9,
+    "learners": 1530,
+    "price": 27,
+    "instructor": "Dr. Salman Yousaf",
+    "thumbnail": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=1200&q=80",
+    "updatedAt": "2026-04-25",
+    "description": "Comprehensive prep for common ENT stations, viva questions, and rapid-fire clinical reasoning.",
+    "outcomes": [
+      "Perform strongly in common ENT OSCE stations.",
+      "Answer high-yield viva questions confidently.",
+      "Use structured communication under exam pressure."
+    ],
+    "requirements": ["Final-year ENT rotation"],
+    "curriculum": [
+      { "title": "OSCE Station Frameworks", "minutes": 62 },
+      { "title": "Viva Scenarios and Model Answers", "minutes": 58 },
+      { "title": "Rapid Revision Drill", "minutes": 49 }
+    ],
+    "instructorBio": "Academic ENT tutor and examination coach for undergraduate learners.",
+    "reviews": [
+      { "name": "Laiba T.", "rating": 5, "comment": "Huge confidence boost before exams." },
+      { "name": "Haris J.", "rating": 5, "comment": "Best high-yield revision resource." }
+    ],
+    "relatedCourseIds": ["allergic-rhinitis-clinic", "otitis-media-child-focused"]
+  }
+]
