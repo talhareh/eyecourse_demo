@@ -1,0 +1,137 @@
+[
+  {
+    "courseId": "endoscopic-sinus-surgery-foundations",
+    "lessons": [
+      {
+        "id": "fess-anatomy-orientation",
+        "title": "FESS Anatomy Orientation",
+        "summary": "Review key endoscopic landmarks and safe surgical planes before intervention.",
+        "durationMinutes": 18,
+        "videoUrl": "https://www.youtube.com/embed/VHUNJZvNTmw",
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": "What are the two critical landmarks you must identify before starting uncinectomy?",
+            "hint": "Think of landmarks that orient you to orbit and skull base safety.",
+            "modelAnswer": "The lamina papyracea and skull base orientation are key safety landmarks. Confirming these landmarks helps prevent orbital injury and CSF-related complications.",
+            "explanation": "In endoscopic sinus surgery, early orientation around lamina papyracea and skull base avoids dissection into dangerous planes."
+          },
+          {
+            "id": "q2",
+            "prompt": "How would you stratify a CRS patient before deciding on surgery?",
+            "hint": "Include symptom burden, endoscopic findings, CT extent, and response to maximal medical therapy.",
+            "modelAnswer": "I would assess symptom severity and quality-of-life impact, confirm disease on nasal endoscopy and CT, and ensure adequate trial of maximal medical therapy before surgical planning.",
+            "explanation": "Surgery is usually reserved for medically refractory disease with objective evidence and persistent burden."
+          },
+          {
+            "id": "q3",
+            "prompt": "Name one intraoperative strategy that lowers complication risk during FESS.",
+            "hint": "Think about orientation and controlled stepwise dissection.",
+            "modelAnswer": "A stepwise dissection with frequent anatomic re-orientation and maintaining dissection close to known landmarks reduces complication risk.",
+            "explanation": "Complications often happen after loss of orientation; deliberate verification at each step improves safety."
+          }
+        ]
+      },
+      {
+        "id": "complication-prevention-checklist",
+        "title": "Complication Prevention Checklist",
+        "summary": "High-yield actions to prevent orbital and skull base injuries.",
+        "durationMinutes": 14,
+        "videoUrl": "https://www.youtube.com/embed/VHUNJZvNTmw",
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": "What red-flag endoscopic sign should make you pause and reassess orientation?",
+            "hint": "Unexpected bleeding or tissue plane mismatch can be a warning.",
+            "modelAnswer": "Unexpected tissue resistance, atypical bleeding, or loss of expected landmark relationships should trigger immediate pause and reorientation before proceeding.",
+            "explanation": "Recognizing disorientation early prevents escalation into major complications."
+          },
+          {
+            "id": "q2",
+            "prompt": "How would you respond to suspected orbital fat exposure intraoperatively?",
+            "hint": "Think stop, assess, and protect.",
+            "modelAnswer": "Stop dissection immediately, avoid further manipulation, reassess anatomy and hemostasis, and escalate based on severity with multidisciplinary input if required.",
+            "explanation": "Early recognition and minimal further trauma are key to limiting morbidity."
+          },
+          {
+            "id": "q3",
+            "prompt": "When should an inexperienced trainee convert to supervised takeover?",
+            "hint": "Use predefined safety thresholds, not confidence alone.",
+            "modelAnswer": "If orientation is uncertain, bleeding obscures planes, or anatomy deviates from expected landmarks, immediate supervised takeover should occur.",
+            "explanation": "Standardized escalation criteria protect patient safety and improve training outcomes."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "epistaxis-emergency-management",
+    "lessons": [
+      {
+        "id": "epistaxis-triage",
+        "title": "Epistaxis Triage and Stabilization",
+        "summary": "Build an emergency-first approach for active nasal bleeding.",
+        "durationMinutes": 16,
+        "videoUrl": "https://www.youtube.com/embed/VHUNJZvNTmw",
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": "What are your first three priorities in severe epistaxis?",
+            "hint": "Start with ABC thinking.",
+            "modelAnswer": "Priorities are airway protection, hemodynamic assessment/stabilization, and initial bleeding control with direct compression and topical vasoconstrictor support.",
+            "explanation": "Systematic ABC management prevents delayed recognition of instability."
+          },
+          {
+            "id": "q2",
+            "prompt": "Which clues suggest posterior instead of anterior epistaxis?",
+            "hint": "Think bilateral bleeding and difficult source visualization.",
+            "modelAnswer": "Persistent heavy bleeding, blood into oropharynx, bilateral flow, and poor visualization of anterior source suggest posterior epistaxis.",
+            "explanation": "Posterior bleeds are often harder to control and may require escalation."
+          },
+          {
+            "id": "q3",
+            "prompt": "When should you involve interventional radiology or surgery?",
+            "hint": "Consider uncontrolled bleeding despite standard escalation.",
+            "modelAnswer": "If bleeding persists despite appropriate packing and resuscitation, or recurrent severe episodes occur, escalation to surgical/IR control is indicated.",
+            "explanation": "Timely escalation reduces transfusion burden and instability."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "vertigo-workup-for-residents",
+    "lessons": [
+      {
+        "id": "bedside-vertigo-exam",
+        "title": "Bedside Vertigo Exam and Red Flags",
+        "summary": "Use practical bedside tests to triage dizzy patients safely.",
+        "durationMinutes": 20,
+        "videoUrl": "https://www.youtube.com/embed/VHUNJZvNTmw",
+        "questions": [
+          {
+            "id": "q1",
+            "prompt": "What historical feature best distinguishes vertigo from non-vestibular dizziness?",
+            "hint": "Focus on sensation quality and movement relation.",
+            "modelAnswer": "A rotational or motion illusion, often worsened by head movement, strongly supports vestibular vertigo over nonspecific lightheadedness.",
+            "explanation": "Characterizing symptom quality narrows diagnosis early."
+          },
+          {
+            "id": "q2",
+            "prompt": "When is HINTS exam appropriate and what is one danger in misuse?",
+            "hint": "Use only in continuous acute vestibular syndrome by trained examiners.",
+            "modelAnswer": "HINTS is appropriate in continuous acute vestibular syndrome with spontaneous nystagmus, and misuse in intermittent or non-AVS patients can cause dangerous false reassurance.",
+            "explanation": "Clinical context determines HINTS utility and safety."
+          },
+          {
+            "id": "q3",
+            "prompt": "Give one central red flag requiring urgent escalation.",
+            "hint": "Think focal neurological deficit patterns.",
+            "modelAnswer": "Any focal neurological deficit (e.g., limb weakness, dysarthria, severe gait ataxia) is a central red flag and requires urgent stroke-oriented escalation.",
+            "explanation": "Central pathology must be prioritized when neurological signs appear."
+          }
+        ]
+      }
+    ]
+  }
+]
